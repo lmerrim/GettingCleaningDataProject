@@ -1,7 +1,5 @@
 # Getting And Cleaning Data - Course Project
 
-## Introduction
-
 There is one script called `run_analysis.R`. It contains all functions and code to do the following:
 
 1. Download UCI HAR zip file to `data` dir
